@@ -1,9 +1,6 @@
 # clj-with-reframe
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
-
-## Getting Started
+A [re-frame](https://github.com/day8/re-frame) application for testing purposes.
 
 ### Project Overview
 
@@ -17,6 +14,7 @@ you.
   [FAQs](https://github.com/day8/re-frame/blob/master/docs/FAQs/README.md)) ->
   [Reagent](https://github.com/reagent-project/reagent) ->
   [React](https://github.com/facebook/react)
+  [Bulma](https://bulma.io/)
 * Build tools
   - CLJS compilation, dependency management, REPL, & hot reload: [`shadow-cljs`](https://github.com/thheller/shadow-cljs)
 * Development tools
@@ -91,8 +89,6 @@ option
 Unfortunately, Firefox does not yet support custom formatters in their devtools. For updates, follow
 the enhancement request in their bug tracker:
 [1262914 - Add support for Custom Formatters in devtools](https://bugzilla.mozilla.org/show_bug.cgi?id=1262914).
-
-## Development
 
 ### Running the App
 
